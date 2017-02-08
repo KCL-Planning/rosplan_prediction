@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+	<name>rosplan_prediction</name>
+	<version>0.0.0</version>
+	<description>Prediction package for ROSPlan in the SQUIRREL project</description>
+	<maintainer email="senka.krivic@uibk.ac.uk">senka2112</maintainer>
+	<license>BSD</license>
+  
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<run_depend>squirrel_relations_prediction</run_depend>
+	<run_depend>rosplan_interface_prediction</run_depend>
+
+	<export>
+		<metapackage/>
+	</export>
+
+</package>
