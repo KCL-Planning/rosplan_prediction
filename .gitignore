@@ -1,0 +1,7 @@
+*.pyc
+squirrel_relations_prediction/scripts/mvm_mmmvr_lib/data/*
+
+# Thumbnails
+._*
+._~
+
